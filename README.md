@@ -1,10 +1,10 @@
 # Hi there, I'm Flavio Avdulla 👋
 
 ## About Me
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, and C
-- 💞️ I’m looking to collaborate on exciting web development projects
-- 📫 How to reach me: a.flavio4366@gmail.com | **[Behance](https://www.behance.net/flavioavdulla)**
+- 👀 I’m interested in FrontEnd Development.
+- 🌱 I’m currently learning HTML, CSS, JavaScript & Python.
+- 💞️ I’m looking to collaborate on exciting web development projects.
+- 📫 How to reach me: a.flavio4366@gmail.com | **[Behance](https://www.behance.net/flavioavdulla)**.
 <!---- ⚡ Fun fact: ...--->
 
 ## Skills

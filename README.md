@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 I’m interested in FrontEnd Development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript & Python.
+- 🌱 I’m currently learning HTML, CSS, TailwindCss, JavaScript & Python.
 - 💞️ I’m looking to collaborate on exciting web development projects.
 - 📫 How to reach me: a.flavio4366@gmail.com | **[Behance](https://www.behance.net/flavioavdulla)**.
 <!---- ⚡ Fun fact: ...--->

@@ -12,19 +12,17 @@ Hi there, I am a resilient and dedicated front-end developer with a strong backg
 - C
 - Python
 - JavaScript
-- ReactJs
-- HTML
-- CSS
+- Linux
 - Git
 - GitHub
-- Linux.
-
-### Web Development
-- React.js, JavaScript, HTML, CSS, Tailwind CSS, Shadcn/ui.
+- HTML
+- CSS
+- ReactJs
+- Shadcn/ui
 
 ## Graphic Design
-- Adobe Photoshop
 - Adobe InDesign
+- Adobe Photoshop
 - Adobe Illustrator
 - Adobe Premiere Pro
 - Adobe Media Encoder

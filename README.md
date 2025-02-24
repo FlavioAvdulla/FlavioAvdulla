@@ -12,6 +12,7 @@ Hi there 👋, I am a resilient and dedicated front-end developer with a strong 
 - C
 - Python
 - JavaScript
+- TypeScript
 - Linux
 - Git
 - GitHub

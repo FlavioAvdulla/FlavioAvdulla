@@ -23,8 +23,8 @@ Hi there 👋, I am a resilient and dedicated front-end developer with a strong 
 
 ## Graphic Design
 - Adobe InDesign
-- ![ps](https://github.com/user-attachments/assets/48e65335-8add-425e-b19c-7b700a9ba3fc) Adobe Photoshop
-Adobe Illustrator
+- ![ps](https://github.com/user-attachments/assets/620047b0-b7b2-4c20-98b1-c8068e46c918) Adobe Photoshop
+- Adobe Illustrator
 - Adobe Premiere Pro
 - Adobe Media Encoder
 - Adobe After Effects

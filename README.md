@@ -1,4 +1,4 @@
-Hi there, I am a resilient and dedicated front-end developer with a strong background in graphic design. With five years of experience in design, after completing an intensive training in computer science and developing several personal projects, I bring a keen eye for detail and a deep understanding of user-focused aesthetics to development projects. I thrive on learning new technologies, solving complex problems, and creating engaging, intuitive web experiences. 👋
+Hi there 👋, I am a resilient and dedicated front-end developer with a strong background in graphic design. With five years of experience in design, after completing an intensive training in computer science and developing several personal projects, I bring a keen eye for detail and a deep understanding of user-focused aesthetics to development projects. I thrive on learning new technologies, solving complex problems, and creating engaging, intuitive web experiences.
 
 ## About Me
 - 👀 I’m interested in FrontEnd Development & Graphic Design.

@@ -8,7 +8,7 @@
 <!---- ⚡ Fun fact: ...--->
 
 ## Skills
-- **Languages:** HTML, CSS, JavaScript.
+- **Languages:**  HTML, CSS, TailwindCss, JavaScript & Python.
 - **Tools:** Git, GitHub, VS Code, Figma
 
 ## Projects

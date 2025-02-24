@@ -9,13 +9,28 @@ Hi there, I am a resilient and dedicated front-end developer with a strong backg
 
 ## Skills
 ### Programming Languages & Tools
-- C, Python, JavaScript, React Native, HTML, CSS, Git, GitHub, Linux.
+- C
+- Python
+- JavaScript
+- ReactJs
+- HTML
+- CSS
+- Git
+- GitHub
+- Linux.
 
 ### Web Development
 - React.js, JavaScript, HTML, CSS, Tailwind CSS, Shadcn/ui.
 
 ## Graphic Design
-- Adobe Photoshop, Adobe InDesign, Adobe Illustrator, Adobe Premiere Pro, Adobe Media Encoder, Adobe After Effects, Autodesk 3dsmax, Substance 3d Painter.
+- Adobe Photoshop
+- Adobe InDesign
+- Adobe Illustrator
+- Adobe Premiere Pro
+- Adobe Media Encoder
+- Adobe After Effects
+- Autodesk 3dsmax
+- Substance 3d Painter.
 
 ## Contact
 Feel free to reach out to me via email: **a.flavio4366@gmail.com** or connect with me on **[Behance](https://www.behance.net/flavioavdulla)**!

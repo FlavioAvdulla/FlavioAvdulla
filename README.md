@@ -1,7 +1,7 @@
 Hi there 👋, I am a resilient and dedicated Fullstack developer with a strong background in graphic design. With five years of experience in design, after completing an intensive training in computer science and developing several personal projects, I bring a keen eye for detail and a deep understanding of user-focused aesthetics to development projects. I thrive on learning new technologies, solving complex problems, and creating engaging, intuitive web experiences.
 
 ## About Me
-- 👀 I’m interested in FrontEnd Development & Graphic Design.
+- 👀 I’m interested in Fullstack Development & Graphic Design.
 - 🌱 I’m currently learning HTML, CSS, TailwindCss, JavaScript & Python.
 - 💞️ I’m looking to collaborate on exciting web development projects.
 - 📫 How to reach me: a.flavio4366@gmail.com | **[Behance](https://www.behance.net/flavioavdulla)**.
